@@ -8,11 +8,10 @@ about:
 
 :::{#me}
 
-## Goals
+I am a fourth year student at the University Of Toronto studying computer science, mathematics, and statistics. I am a coding enthusiast and I love to learn about new technologies. I have worked with UnisolTech for four years where I developed and maintained technologies in python, java, and C. I have also been working with the RCMP for the past year as a technical analyst. 
 
-## Education
+Check out my [CV](Resume.pdf)
 
-## Experience
 
 :::
 

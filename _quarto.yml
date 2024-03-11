@@ -8,15 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
       - icon: github
         href: https://github.com/MohidSharif/quarto_website
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, Mohid Sharif"
+    left: "&copy; Copyright 2024, Mohid Sharif"
 
 format:
   html:
